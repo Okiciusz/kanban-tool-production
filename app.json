@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "Steel Boss: Factory Tycoon",
+    "slug": "steel-boss-factory-tycoon",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "platforms": ["android"],
+    "android": {
+      "package": "com.steelboss.factorytycoon"
+    }
+  }
+}
